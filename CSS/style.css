@@ -27,6 +27,7 @@
     text-transform: capitalize;
     transition: all .2s ease-out;
     text-decoration: none;
+
 }
 
 html{
@@ -162,6 +163,7 @@ section:nth-child(even){
 @media(max-width:991px){
     html{
         font-size: 55%;
+        overflow-x: hidden;
     }
     .header{
         padding: 2rem;
@@ -215,6 +217,7 @@ section:nth-child(even){
 @media(max-width:450px){
     html{
         font-size: 50%;
+        overflow-x: hidden;
     }
 }
 
