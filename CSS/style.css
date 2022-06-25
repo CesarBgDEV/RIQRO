@@ -472,8 +472,6 @@ section:nth-child(even){
 
 .contacto .row .map{
     flex:1 1 45rem;
-    width: 100%;
-    object-fit: cover;
 }
 
 /* .contacto .row .image img{
